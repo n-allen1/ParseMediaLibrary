@@ -20,8 +20,8 @@ Once extracted, the script checks for duplicates to ensure each media entry is u
 
 ## Examples
 
-!(img/img(1).png)
-!(img/img(2).png)
+![File Directory](img/img(1).png)
+![Spreadsheet](img/img(2).png)
 
 ## Setup
 
